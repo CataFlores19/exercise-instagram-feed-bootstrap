@@ -60,7 +60,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 - Busca soluciones en Google. 
 - Habla con otros estudiantes. 
 - Habla con desarrolladores senior que conozcas. 
-- Habla con mentores en slack.
+- Habla con mentores en Slack.
 - No tengas miedo a preguntar. 
 
 
